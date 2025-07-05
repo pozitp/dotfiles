@@ -1,0 +1,14 @@
+[user]
+	email = pozitp.code@gmail.com
+	name = Artur Mukhamedyarov
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+	pager = delta --dark --diff-so-fancy
+[commit]
+	verbose = true
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[push]
+	default = simple
